@@ -1,4 +1,4 @@
-body {
+h1, .main-para, img, p { 
     text-align: center;
 }
 
@@ -7,7 +7,40 @@ body {
     line-height: 1.5em;
 }
 
-#active {
-    background-color: white;
+nav, footer {
+    text-align: center;
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+}
+
+footer p {
+    font-size:  20px;
+    margin: 20px auto;
+}
+
+img {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+    margin: 10px auto;
+}
+
+p {
+    width: 80%;
+    margin: 10px auto;
+}
+
+a {
+    font-size: 1.5em;
+}
+
+a:hover {
+    background-color:  white;
     color: steelblue;
+    font-size: 2em;
+}
+
+* {
+    border: 2px solid blue;
 }
