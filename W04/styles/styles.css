@@ -1,0 +1,26 @@
+h1 {
+    color: white;
+}
+
+h1:hover {
+    color: black;
+}
+
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    color: white;
+}
+
+* {
+    background-color: pink;
+    width: 80%;
+    text-align: center;
+    margin: 10px auto;
+    border: 2px solid steelblue;
+}
+
+footer {
+    padding: 10px;
+    margin: 0 auto;
+}
