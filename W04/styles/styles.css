@@ -2,6 +2,14 @@ h1 {
     color: white;
 }
 
+h4 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
 h1:hover {
     color: black;
 }
@@ -9,7 +17,6 @@ h1:hover {
 .main-para {
     font-size: 1.5em;
     line-height: 1.5em;
-    color: white;
 }
 
 * {
@@ -23,4 +30,5 @@ h1:hover {
 footer {
     padding: 10px;
     margin: 0 auto;
+    color: black;
 }
