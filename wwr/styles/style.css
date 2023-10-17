@@ -1,4 +1,4 @@
-@import url("https://fonts.adobe.com/fonts/cc-whatchamacallit-variable");
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Permanent+Marker&family=Righteous&display=swap');
 
 /** The variables **/
 :root {
@@ -43,7 +43,7 @@ nav a:hover {
 
 .home-title {
     color: var(--peach);
-    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-family: 'Righteous', 'Bradley Hand', sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
@@ -58,7 +58,7 @@ body {
     font-size: 22px;
     margin: 0;
     padding: 0;
-    font-family: "cc-whatchamacallit-variable", sans-serif;
+    font-family: "Righteous", sans-serif;
     font-variation-settings: 'wght' 400, 'wdth' 50, 'ital' 0;
 }
 
