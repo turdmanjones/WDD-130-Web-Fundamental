@@ -1,0 +1,34 @@
+.gray-div {
+    height: 500px;
+    width: 500px;
+    background-color: lightgray;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+
+h1#title {
+    font-size: 150px;
+    position: absolute;
+    z-index: 1;
+    left: 50px;
+}
+
+.gray-div h1 {
+    padding-bottom: 75px;
+    color: red;
+    font-size: 60px;
+}
+
+body {
+    display: flex;
+/*    flex-direction: row;*/
+    max-width: 1000px;
+    /* height: 500px; */
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
